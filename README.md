@@ -1,10 +1,8 @@
 #  Mean and variance of a discrete  distribution
 
-
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
-
 
 # Software required :  
 
@@ -72,11 +70,9 @@ print(f"\nThe Mean arrival rate is {mean:.3f}")
 print(f"The Variance of arrival from feeder is {var:.3f}")
 print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 ```
-
 # Output : 
 Refer to the following images to view the output of the program'
 ![image](output1.png)
-
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
